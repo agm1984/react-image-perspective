@@ -3,8 +3,8 @@
 
 ## Installation
 ``` bash
-$ git clone ...
-$ cd ...
+$ git clone https://github.com/agm1984/react-image-perspective.git
+$ cd react-image-perspective
 $ npm install
 $ npm start
 ```
