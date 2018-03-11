@@ -17,7 +17,7 @@ $ npm start
 4. Paste this into your file:
 
 ``` javascript
-import TiltPhaseSix from './TiltPhaseSix'
+import Tilt from './TiltPhaseSix'
 import dogBackground from './dogBackground.jpg' // Supply your own images
 import dogForeground from './dogForeground.png'
 
