@@ -1,6 +1,9 @@
 # 3D Perspective Tilt
 > This project is to help you butcher up some code to learn and/or implement this quickly and efficiently.
 
+Follow along on Medium:
+
+
 ## Installation
 ``` bash
 $ git clone https://github.com/agm1984/react-image-perspective.git
@@ -74,6 +77,6 @@ const options = {
 ```
 
 ## Twitter
-Follow me on Twitter to stay up to date on JavaScript and cutting edge software engineering techniques.
+Follow me on Twitter to stay up to date on JavaScript and cutting edge Software Engineering techniques.
 
 [@agm1984](https://www.twitter.com/agm1984)
