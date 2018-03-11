@@ -72,3 +72,8 @@ const options = {
   scale: 1.05,
 }
 ```
+
+## Twitter
+Follow me on Twitter to stay up to date on JavaScript and cutting edge software engineering techniques.
+
+[@agm1984](https://www.twitter.com/agm1984)
