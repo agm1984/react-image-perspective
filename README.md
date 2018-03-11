@@ -38,9 +38,9 @@ const options = {
     width: 740,
   }}
 >
-    <Tilt options={options}>
-      <img src={dogForeground} alt="" />
-    </Tilt>
+  <Tilt options={options}>
+    <img src={dogForeground} alt="" />
+  </Tilt>
 </Tilt>
 ```
 
